@@ -16,7 +16,7 @@ export function AdminToggle() {
     }
   };
 
-  if (!showLogin) {
+  if (!showLogin ) {
     return (
       <Button
         variant="ghost"
